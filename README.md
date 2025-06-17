@@ -22,5 +22,4 @@ This project implements a **Retrieval-Augmented Generation (RAG)** chatbot that 
 
 ---
 
-## 📂 Project Structure
 
